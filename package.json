@@ -1,0 +1,22 @@
+{
+  "name": "brackets-one-dark",
+  "displayName": "Brackets One Dark",
+  "description": "theme",
+  "version": "0.0.1",
+  "icon": "brackets-one-dark-logo.png",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Brackets One Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Brackets One Dark-color-theme.json"
+      }
+    ]
+  }
+}
