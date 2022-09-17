@@ -245,6 +245,16 @@
 			"settings": {
 				"foreground": "#6C9EF8",
 			}
+			
+		},
+		{
+			"name": "CSS Tag",
+			"scope": [
+				"entity.name.tag.css"
+			],
+			"settings": {
+				"foreground": "#e84971",
+			}
 		},
 		{
 			"name": "Function, Special Method",
